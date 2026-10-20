@@ -1,6 +1,6 @@
 all: push
 
-TAG = 12.2
+TAG = linuxserver
 PREFIX = crpi-8kvyt6flnal17nk5.cn-beijing.personal.cr.aliyuncs.com
 IMAGE_NAME = liveno/jellyfin
 
